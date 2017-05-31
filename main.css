@@ -1,0 +1,43 @@
+body {
+
+}
+nav ul li {
+  color: white;
+  display: inline-block;
+  list-style-type: none;
+  float: right;
+  padding: 5px 35px;
+  size: 30;
+}
+
+.text-box-one {
+	background: #999;
+	padding: 50px 100px;
+	text-align: center;
+}
+
+.text-box-two {
+	background: white;
+	padding: 50px 100px;
+	text-align: center;
+}
+
+.title {
+  text-align: center;
+  margin: 25%;
+  font-weight: bold;
+  color: white;
+  font-size: 75px;
+}
+
+div.background {
+  background-image: url("images/the-american-civil-war.jpg");
+  border: 1px solid black;
+  min-height: 650px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
